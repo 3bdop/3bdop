@@ -1,13 +1,15 @@
-<h2 align="left">Hi 👋! My name is Abdulrahman</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=40&pause=250&color=2697F7&center=true&width=439&height=60&lines=Hello+everyone+%F0%9F%91%8B;I'm+Abdulrahman!" alt="Typing SVG" />
+</p>
 
-###
+##
 
 <br clear="both">
 
 <h4 align="center">I'm a CS student and developer with a 50/50 passion for AI 🤖 and Cybersecurity 🔐.</h4>
 
 ###
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-muhanna-bb1b16210/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
