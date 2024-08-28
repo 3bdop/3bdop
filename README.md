@@ -85,8 +85,8 @@
 
 <br clear="both">
 <!-- ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg) -->
-<!-- <img src="https://raw.githubusercontent.com/3bdop/3bdop/output/snake.svg" alt="Snake animation" /> -->
-<img src="[https://raw.githubusercontent.com/3bdop/3bdop/output/snake.svg](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/3bdop/3bdop/output/snake.svg" alt="Snake animation" />
+<!-- <img src="[https://raw.githubusercontent.com/3bdop/3bdop/output/snake.svg](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" /> -->
 
 ###
 
