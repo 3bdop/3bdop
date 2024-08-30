@@ -73,6 +73,12 @@
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="adobeaftereffects logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="adobeaftereffects logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="adobeaftereffects logo"  />
 </div>
 
 ###
