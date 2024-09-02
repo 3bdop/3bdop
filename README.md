@@ -40,6 +40,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
@@ -69,8 +71,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
   <img width="5" />
