@@ -38,11 +38,11 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="5" />
@@ -60,9 +60,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="5" />
