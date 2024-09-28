@@ -42,6 +42,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
