@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h4 align="center">I'm a CS student and developer with a 50/50 passion for AI 🤖 and Cybersecurity 🔐.</h4>
+<h4 align="center">I'm a CS student with a 50/50 passion for AI 🤖 and Cybersecurity 🔐.</h4>
 
 ###
 <br>
