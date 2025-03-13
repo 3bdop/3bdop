@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+%F0%9F%91%8B;I'm+Abdulrahman+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+%F0%9F%91%8B;I'm+Abdulrahman!" alt="Typing SVG" />
 </h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="center">I'm a CS student with a 50/50 passion for AI 🤖 and Cybersecurity 🔐.</h4>
+<h4 align="center">I'm a CS student who's enthesis in AI&ML🤖.</h4>
 
 ###
 <br>
@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="135" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
+[comment]: <img align="right" height="135" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 
 ###
 
@@ -49,8 +49,8 @@
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
+<!--   <img width="5" /> -->
+<!--   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  /> -->
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="5" />
@@ -70,8 +70,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo">
-  <img width="5" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"> -->
+<!--   <img width="5" /> -->
   <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="adobeaftereffects logo"  />
@@ -103,9 +103,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=3bdop&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=3bdop&count_private=true&show_icons=true&theme=gotham&rank_icon=github&hide_border=false&border_radius=10" height="150" alt="readme stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=3bdop&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=3bdop&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=false&border_radius=10" height="150" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
