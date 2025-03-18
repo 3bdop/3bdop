@@ -23,7 +23,14 @@
 
 <br clear="both">
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">
+  <picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"align="center">
+</picture>
+  Languages-Frameworks-Tools 
+  <picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"align="center">
+</picture></h2>
 
 ###
 
@@ -85,7 +92,15 @@
 
 <br clear="both">
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">
+  <picture>">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32" align="center">
+</picture>
+  My Contributions 
+  <picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32" align="center">
+</picture>
+</h2>
 
 ###
 
@@ -98,7 +113,15 @@
 
 <br clear="both">
 
-<h2 align="center">🔥 Stats 🔥</h2>
+<h2 align="center">
+<picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32" align="center">
+</picture>
+  Stats
+  <picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32" align="center">
+</picture>
+</h2>
 
 ###
 
