@@ -1,3 +1,6 @@
+<!-- <div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=3bdop.3bdop&">
+</div> -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+%F0%9F%91%8B;I'm+Abdulrahman!" alt="Typing SVG" />
 </h1>
