@@ -41,7 +41,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 <!--   <img width="5" /> -->
 <!--   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  /> -->
-  <img width="5" />
+ <!-- <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
@@ -82,13 +82,23 @@
   <img width="5" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"> -->
 <!--   <img width="5" /> -->
-  <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
+<!--  <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="adobeaftereffects logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="adobeaftereffects logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="adobeaftereffects logo"  />
+</div> -->
+<div align="center">
+  <!-- Line 1: Core Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css,tailwind" /><br/>
+
+  <!-- Line 2: Frameworks, Databases, and Tools -->
+  <img src="https://skillicons.dev/icons?i=firebase,flask,mysql,mongodb,nginx,nodejs,express,unity,react,fastapi" /><br/>
+
+  <!-- Line 3: Dev Tools and Design -->
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,docker,azure,figma,ae,vscode,notion,postman" />
 </div>
 
 ###
