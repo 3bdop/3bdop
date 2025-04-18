@@ -1,6 +1,6 @@
-<!-- <div align="right">
+<!--<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=3bdop.3bdop&">
-</div> -->
+ </div> -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+%F0%9F%91%8B;I'm+Abdulrahman!" alt="Typing SVG" />
 </h1>
@@ -14,10 +14,10 @@
 ###
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-muhanna-bb1b16210/" target="_blank">
+  <a href="https://www.linkedin.com/in/3bdop" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:abdbinm55@gmail.com" target="_blank">
+  <a href="mailto:amuhana22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
