@@ -92,13 +92,13 @@
 </div> -->
 <div align="center">
   <!-- Line 1: Core Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css,tailwind,materialui" /><br/>
 
   <!-- Line 2: Frameworks, Databases, and Tools -->
   <img src="https://skillicons.dev/icons?i=firebase,flask,mysql,mongodb,nginx,nodejs,express,unity,react,fastapi" /><br/>
 
   <!-- Line 3: Dev Tools and Design -->
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,docker,azure,figma,ae,vscode,notion,postman" />
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,docker,azure,figma,ae,vscode,notion,postman,vercel" />
 </div>
 
 ###
