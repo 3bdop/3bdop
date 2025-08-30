@@ -106,7 +106,7 @@
 <br clear="both">
 
 <h2 align="center">
-  <picture>">
+  <picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="32" height="32" align="center">
 </picture>
   My Contributions 
