@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<h4 align="center">I'm a CS student who's passionate about AI&ML🤖.</h4>
+<!-- <h4 align="center">I'm a CS student who's passionate about AI&ML🤖.</h4> -->
 
 ###
 <br>
